@@ -1,0 +1,3 @@
+#!/bin/bash
+touch pubg{1..3}
+free -m
