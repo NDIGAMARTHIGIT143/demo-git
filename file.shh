@@ -1,2 +1,0 @@
-#!/bin/bash
-touch form{1..6}
