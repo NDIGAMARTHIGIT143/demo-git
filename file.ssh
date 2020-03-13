@@ -1,0 +1,2 @@
+#!/bin/bash
+touch note{1..5}
