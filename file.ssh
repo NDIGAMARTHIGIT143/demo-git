@@ -1,2 +1,2 @@
 #!/bin/bash
-touch note{1..2}
+touch note{1..6}
