@@ -1,4 +1,4 @@
-#Hello world#
+#HHello world#
 #!/bin/bash
 ##to update the server ##
 sudo apt-get update
